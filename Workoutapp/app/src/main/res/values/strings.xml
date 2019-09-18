@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Workout app</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="upperArray">
+        <item>Chest</item>
+        <item>Back</item>
+        <item>Shoulders</item>
+        <item>Lats</item>
+        <item>Traps</item>
+    </string-array>
+
+    <string-array name="armsArray">
+        <item>Tricep</item>
+        <item>Bicep</item>
+        <item>Forearms</item>
+    </string-array>
+
+    <string-array name="lowerArray">
+        <item>Quads</item>
+        <item>Calves</item>
+        <item>Glutes</item>
+        <item>Abs</item>
+        <item>Lower Back</item>
+    </string-array>
+
+</resources>
